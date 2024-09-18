@@ -29,8 +29,8 @@ We welcome contributions to MetaROS! Please read our contributing guidelines (TO
 
 ## License
 
-This project is licensed under [LICENSE_NAME] - see the LICENSE file for details.
+This project is licensed under [TODO: Choose an appropriate open-source license] - see the LICENSE file for details.
 
 ## Contact
 
-For any questions or discussions about MetaROS, please [open an issue](https://github.com/YOUR_GITHUB_USERNAME/metaros/issues) on GitHub.
+For any questions or discussions about MetaROS, please open an issue on GitHub once the repository is made public.
